@@ -13,8 +13,8 @@
     "react-scripts": "3.4.1",
     "uuid": "^8.2.0",
 "engines": {
-    "npm": "5.7.1",
-    "node": "9.5.0"
+    "npm": "6.10.1",
+    "node": "12.18.2"
   }
   },
   "scripts": {
