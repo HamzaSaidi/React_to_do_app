@@ -1,5 +1,5 @@
 {
-  "name": "vid",
+  "name": "todo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -11,17 +11,18 @@
     "react-beautiful-dnd": "^13.0.0",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
-    "uuid": "^8.2.0"
+    "uuid": "^8.2.0",
+"engines": {
+    "npm": "5.7.1",
+    "node": "9.5.0"
+  }
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-"engines": {
-    "npm": "5.7.1",
-    "node": "9.5.0"
-  }
+    "eject": "react-scripts eject"
+
   },
   "eslintConfig": {
     "extends": "react-app"
